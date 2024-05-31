@@ -1,0 +1,30 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API para la aplicación de gestión de ventas e inventarios de la empresa Instalaciones Matamoros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliusMatadamas/instalaciones_matamoros_api.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "MongoDB",
+    "CORS",
+    "Multer",
+    "JWT",
+    "API",
+    "Controllers",
+    "MVC."
+  ],
+  "author": "Julio Cesar Matadamas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliusMatadamas/instalaciones_matamoros_api/issues"
+  },
+  "homepage": "https://github.com/JuliusMatadamas/instalaciones_matamoros_api#readme"
+}
